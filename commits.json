@@ -7,6 +7,10 @@
     {
       "commitNo": 2,
       "description": "Commit 2"
+    },
+    {
+      "commitNo": 3,
+      "description": "Commit 3"
     }
   ]
 }
