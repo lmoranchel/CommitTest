@@ -3,6 +3,10 @@
     {
       "commitNo": 1,
       "description": "Commit 1"
+    },
+    {
+      "commitNo": 2,
+      "description": "Commit 2"
     }
   ]
 }
