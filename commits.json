@@ -23,6 +23,10 @@
     {
       "commitNo": 6,
       "description": "Commit 6"
+    },
+    {
+      "commitNo": 7,
+      "description": "Commit 7"
     }
   ]
 }
